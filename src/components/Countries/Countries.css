@@ -1,0 +1,9 @@
+.countries{
+    margin: 20px;
+    background-color: rgb(140, 172, 172);
+    border-radius: 10px;
+}
+.countries img{
+    width: 40%;
+}
+
